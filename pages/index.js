@@ -87,7 +87,7 @@ const Home = () => {
      
       <div className="badge-container grow">
         <a
-          href="https://buildspace.so/@usman"
+          href="https://usmanasim.com"
           target="_blank"
           rel="noreferrer"
         >
