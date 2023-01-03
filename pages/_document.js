@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:description" content="PocketHadith" key="description"/>
         <meta
           property="og:image"
-          content="https://i.ibb.co/j8wTz4D/Screen-Shot-2023-01-03-at-3-51-20-PM.png"
+          content="https://i.ibb.co/qCZWBWC/Screen-Shot-2023-01-03-at-3-53-07-PM.jpg"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
