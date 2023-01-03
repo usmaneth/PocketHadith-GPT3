@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:description" content="PocketHadith" key="description"/>
         <meta
           property="og:image"
-          content="https://cdn.buildspace.so/courses/gpt3-writer/project-og.jpg"
+          content="https://i.ibb.co/j8wTz4D/Screen-Shot-2023-01-03-at-3-51-20-PM.png"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
