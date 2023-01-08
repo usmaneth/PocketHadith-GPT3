@@ -60,6 +60,7 @@ const Home = () => {
           value= {userInput}
           onChange={onUserChangedText}
         />;
+          
         <div className="prompt-buttons">
         <a className={isGenerating ? 'generate-button loading' : 'generate-button'}
          onClick={callGenerateEndpoint}>
