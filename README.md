@@ -1,6 +1,6 @@
 
 # Pocket Hadith
-Pocket Hadith is a work-in-progress project that uses OpenAI's GPT-3 to generate authentic hadith from the Sahih Bukhari and Sahih Muslim collections
+Pocket Hadith is a work-in-progress project that uses OpenAI's GPT-3 to generate authentic hadith from the Sahih Bukhari and Sahih Muslim collections.
 
 # How it works
 Simply enter a prompt about how you are feeling, and the AI will respond with a relevant hadith from the Sahih Bukhari or Sahih Muslim collections, along with the reference for the hadith, the original Arabic text, an English translation, and a meaningful way to implement the hadith based on the situation.
