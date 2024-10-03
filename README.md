@@ -12,6 +12,6 @@ Simply enter a prompt about how you are feeling, and the AI will respond with a 
 - Suggestions for implementing the hadith in your daily life
 
 # About the project
-This project is still a work-in-progress, and we welcome any feedback or suggestions for improvement. If you have any questions or suggestions, please feel free to contact me (usmanasim27@gmail.com).
+This project is still a work-in-progress, and we welcome any feedback or suggestions for improvement. If you have any questions or suggestions, please feel free to contact me (usmanasim27@gmail.com)
 
 I hope that this app will be a useful tool for finding solace, guidance, and inspiration in the words of the Prophet Muhammad (peace be upon him).
